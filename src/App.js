@@ -13,16 +13,20 @@ class App extends Component {
             <Navigation>
               <Link to="/beranda">Beranda</Link>
               <Link to="/tentangsaya">Tentang Saya</Link>
+              <Link to="/profiledetail">Profile Detail</Link>
               <Link to="/karya">Karya</Link>
               <Link to="/kontak">Kontak</Link>
+              <Link to="/alamat">Alamat</Link>
             </Navigation>
           </Header>
           <Drawer title="Portfolio">
             <Navigation>
               <Link to="/beranda">Beranda</Link>
               <Link to="/tentangsaya">Tentang Saya</Link>
+              <Link to="/profiledetail">Profile Detail</Link>
               <Link to="/karya">Karya</Link>
               <Link to="/kontak">Kontak</Link>
+              <Link to="/alamat">Alamat</Link>
             </Navigation>
           </Drawer>
           <Content>
