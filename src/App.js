@@ -17,6 +17,7 @@ class App extends Component {
               <Link to="/karya">Karya</Link>
               <Link to="/kontak">Kontak</Link>
               <Link to="/alamat">Alamat</Link>
+              <Link to="/web">Web</Link>
             </Navigation>
           </Header>
           <Drawer title="Portfolio">
@@ -27,6 +28,7 @@ class App extends Component {
               <Link to="/karya">Karya</Link>
               <Link to="/kontak">Kontak</Link>
               <Link to="/alamat">Alamat</Link>
+              <Link to="/web">Web</Link>
             </Navigation>
           </Drawer>
           <Content>
