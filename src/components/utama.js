@@ -7,6 +7,7 @@ import Karya from './karya';
 import Kontak from './kontak';
 import ProfileDetail from './profiledetail';
 import Alamat from './alamat';
+import Web from './web';
 
 const Utama = () => (
     <Switch>
@@ -17,6 +18,7 @@ const Utama = () => (
         <Route path="/karya" component={Karya} />
         <Route path="/kontak" component={Kontak} />
         <Route path="/alamat" component={Alamat} />
+        <Route path="/web" component={Web} />
     </Switch>
 )
 
